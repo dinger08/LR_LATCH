@@ -1,2 +1,2 @@
 # LR_LATCH
-SImple Set and Reset Latch using logic gates
+SImple Set and Reset Latch using logisim
